@@ -12,7 +12,7 @@ API_ID = int(getenv("API_ID", "21437069"))
 API_HASH = getenv("API_HASH", "1bb25b1906580cff991af83aaae2091c")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN","7743484569:AAFcFJmsp75yzLIUmjtoxJOjY47ciRIZiVY")
+BOT_TOKEN = getenv("BOT_TOKEN","7743484569:AAGs-b6mVGhG2HztYx0zSgPGXnTMM4CxA7c")
 
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://Dark_infinity_bot:Dark_infinity_bot@cluster0.1q8zf.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
@@ -76,7 +76,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 # Get your pyrogram v2 session from @BRANDEDSTRINGSESSION_BOT on Telegram
 STRING1 = getenv("STRING_SESSION",  None)
-STRING2 = getenv("STRING_SESSION2", "BQFHGo0AivHgWb2g7jTU20glL-CLnYsaBqX9yoA_2xhqgykszxnmpLw8nxXoNF2lk52gfmpMJfEefdbCM7S7zshnCT7zyZ2LAWmDHn4jQICien5hXStpQB1JxfMycHuh1edv3TyaWR2hJ6dvnwKBSnqp48_Z0WWoO6vyr4Rpb0_dJhEvY9hS5W9MJS3PWdjKNDYBISrG6O1fGfarRHCeeZdkDr0og4AU5CSrD0bJm_MofubtRZGAu_rAxD70m1AmzgOnAZnTgZEqgPJcCAZpiibInD0uRwnVj3COD3zQNbc_EfDBxavVZlu67qfpZ5b5vWO5sXAdO4BPmjg2zAaZTHKA2kWrAQAAAAHMylfLAA")
+STRING2 = getenv("STRING_SESSION2", "BQFHGo0AqZiEyBIuwMEDM_Go3pnfw9BCniwfQrcZhRHGMjHi2-t0xhLaj-Hi_ESqnpqsLZZ9KMUhJL2oHwhajgcngG01dr_2qlIAquIn3Nj4StpviPkX8SwPDEA1IJteztg-GH-kY0bAV3oGuBroEo-yV8rxep1ksC-XLZc_56yEiIoiyetkHneZFEo7oP20IIKWOwozy59BsXlFPPaocDKA4GFFDUQU6Anrqs8HpwexkKX-_1TVEOFpvZ4lcPl9DIOvU4nJRfH9gvzFSJ4Ik4Mc2PKCN62rL_nhDyVMCzoDHVmriGzFD4Z3W7ioT4X8ZnKhkOHuaO4_mWQzbHpnMAQmFYFhoAAAAAHMylfLAA")
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
 STRING5 = getenv("STRING_SESSION5", None)
